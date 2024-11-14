@@ -1,5 +1,5 @@
 export default ({ env }) => ({
-  upload: {
+  /*upload: {
     config: {
       provider: "aws-s3",
       providerOptions: {
@@ -20,5 +20,5 @@ export default ({ env }) => ({
         delete: {},
       },
     },
-  },
+  },*/
 });
